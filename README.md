@@ -34,7 +34,7 @@ Each folder contains C++ solutions, and more will be added regularly.
 
 ## 📚 Useful Links
 
-- [My LeetCode Profile](https://leetcode.com/DivyamAgarewal/)
+- [My LeetCode Profile](https://leetcode.com/DivyamAgarwal/)
 
 
 ---
